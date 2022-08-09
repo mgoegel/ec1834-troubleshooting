@@ -3,4 +3,4 @@ Robotron EC1834 Troubleshooting guide
 
 Anleitung zur Fehlersuche und Fehlerbehebung...
 
-docs/DE-troubleshooting.md
+[Deutsch](docs/DE-troubleshooting.md)
