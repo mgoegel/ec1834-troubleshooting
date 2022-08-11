@@ -18,10 +18,10 @@ Empfehlenswert ist folgende Ausrüstung:
 
 ## Vorgehensweise Diagnostik
 
-- [Stromversorgung/Netzteil](DE-ts-power.md)
+- [Stromversorgung/Netzteil](ts-power.md)
 - Mainboard
 
 ## Beispiele Fehlerdiagnostik Mainboard
 
-- [Board 1](DE-ts-b1.md)
-- [Board 2](DE-ts-b2.md)
+- [Board 1](ts-b1.md)
+- [Board 2](ts-b2.md)
