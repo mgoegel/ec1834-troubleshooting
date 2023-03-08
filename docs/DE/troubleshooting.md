@@ -8,7 +8,7 @@ Empfehlenswert ist folgende Ausrüstung:
 
 * Trenntrafo
 * Oszilloskop
-* Logic Analyzer (16 Kanal - z.B. LA1010)
+* Logic Analyzer (16 Kanal - z.B. LA1010, besser LA2010, noch besser: HANTEK 4032L)
 * Multimeter (dürfen auch mehr als eines sein)
 * mind. 2 Labornetzteile mit Strombegrenzung<br>
     +12V<br>
@@ -19,7 +19,9 @@ Empfehlenswert ist folgende Ausrüstung:
 ## Vorgehensweise Diagnostik
 
 - [Stromversorgung/Netzteil](ts-power.md)
-- Mainboard
+- [Mainboard](ts-mainboard.md)
+- Erweiterungsplatinen
+- Peripherie
 
 ## Beispiele Fehlerdiagnostik Mainboard
 
